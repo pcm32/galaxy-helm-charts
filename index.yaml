@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
   galaxy-postgres-chart:
-  - created: 2016-10-18T22:54:56.357037975+01:00
+  - created: 2016-10-20T15:21:44.013532066+01:00
     description: Galaxy with Postgres deployment
     digest: 9afa392f0bc006b9abbcf2dcf39b51d55f424764a5e1da660045ad59cbf02988
     name: galaxy-postgres-chart
     urls:
     - /Users/pmoreno/Development/galaxy-helm-repo/galaxy-postgres-chart-0.1.1.tgz
     version: 0.1.1
-  - created: 2016-10-18T22:54:56.356203801+01:00
+  - created: 2016-10-20T15:21:44.013010263+01:00
     description: Galaxy with Postgres deployment
     digest: 2d1121644b7ec67ad28ad6766f389cfe81f7e54071ee4cc10e099beac558ccc5
     name: galaxy-postgres-chart
@@ -17,7 +17,7 @@ entries:
     version: 0.1.0
   galaxy-simple:
   - apiVersion: v1
-    created: 2016-10-18T22:54:56.357949318+01:00
+    created: 2016-10-20T15:21:44.014383938+01:00
     description: A Helm chart for Kubernetes
     digest: 8e5abf9ef060857c004a70ad546308aa651288db27b486ee4a00e4ee0e66b056
     name: galaxy-simple
@@ -25,7 +25,7 @@ entries:
     - /Users/pmoreno/Development/galaxy-helm-repo/galaxy-simple-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2016-10-18T22:54:56.357505062+01:00
+    created: 2016-10-20T15:21:44.013986792+01:00
     description: A Helm chart for Kubernetes
     digest: 398e5b24c57f4f57aa54d5a24c8936445301ae436d2168193bbb8cbd9288a937
     name: galaxy-simple
@@ -33,11 +33,11 @@ entries:
     - /Users/pmoreno/Development/galaxy-helm-repo/galaxy-simple-0.1.0.tgz
     version: 0.1.0
   postgres:
-  - created: 2016-10-18T22:54:56.35833979+01:00
+  - created: 2016-10-20T15:21:44.014757457+01:00
     description: A Helm chart for Kubernetes
     digest: b1f5cb5e8273f88fe9e6fe8f30c9692187ed6bc94470980d2742edab5b9d7720
     name: postgres
     urls:
     - /Users/pmoreno/Development/galaxy-helm-repo/postgres-0.1.0.tgz
     version: 0.1.0
-generated: 2016-10-18T22:54:56.352892132+01:00
+generated: 2016-10-20T15:21:44.012082232+01:00
