@@ -1,35 +1,42 @@
 apiVersion: v1
 entries:
   galaxy-postgres-chart:
-  - created: 2017-01-25T09:53:07.496002708Z
+  - created: 2017-02-28T19:25:18.327531167Z
+    description: Galaxy with Postgres deployment
+    digest: 77d97b80a5f240b2da8e6617a1c7a151ed7da7feb18f62eda837948a3f39468f
+    name: galaxy-postgres-chart
+    urls:
+    - https://pcm32.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.5.tgz
+    version: 0.1.5
+  - created: 2017-02-28T19:25:18.327139604Z
     description: Galaxy with Postgres deployment
     digest: e6865e76ea25de2a79db483407845d22842138dac9876605c6c2c4d2e7147c9c
     name: galaxy-postgres-chart
     urls:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.4.tgz
     version: 0.1.4
-  - created: 2017-01-25T09:53:07.495381627Z
+  - created: 2017-02-28T19:25:18.326362679Z
     description: Galaxy with Postgres deployment
     digest: 2c98847d979ddf68bdfbbfb5e1d445a32f162831171111b86bdfb3179f6514d5
     name: galaxy-postgres-chart
     urls:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.3.tgz
     version: 0.1.3
-  - created: 2017-01-25T09:53:07.494790434Z
+  - created: 2017-02-28T19:25:18.324420062Z
     description: Galaxy with Postgres deployment
     digest: 4f39c39ce460289c3e6e22675938010c1dab26faaa3a2d0b65a54057bb028eec
     name: galaxy-postgres-chart
     urls:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.2.tgz
     version: 0.1.2
-  - created: 2017-01-25T09:53:07.492442675Z
+  - created: 2017-02-28T19:25:18.323948768Z
     description: Galaxy with Postgres deployment
     digest: 9afa392f0bc006b9abbcf2dcf39b51d55f424764a5e1da660045ad59cbf02988
     name: galaxy-postgres-chart
     urls:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.1.tgz
     version: 0.1.1
-  - created: 2017-01-25T09:53:07.491788356Z
+  - created: 2017-02-28T19:25:18.323407207Z
     description: Galaxy with Postgres deployment
     digest: 2d1121644b7ec67ad28ad6766f389cfe81f7e54071ee4cc10e099beac558ccc5
     name: galaxy-postgres-chart
@@ -38,7 +45,15 @@ entries:
     version: 0.1.0
   galaxy-simple:
   - apiVersion: v1
-    created: 2017-01-25T09:53:07.496731108Z
+    created: 2017-02-28T19:25:18.329805598Z
+    description: A Helm chart for Kubernetes
+    digest: 8f992e00bda0262bee3d0c838bf518c765a8793f0681e636c960f3f207a73734
+    name: galaxy-simple
+    urls:
+    - https://pcm32.github.io/galaxy-helm-charts/galaxy-simple-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
+    created: 2017-02-28T19:25:18.3290432Z
     description: A Helm chart for Kubernetes
     digest: 2baffaa293817e79129b8ea060d888b6a32d526e338077bef439cd92b3c77b1e
     name: galaxy-simple
@@ -46,7 +61,7 @@ entries:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-simple-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
-    created: 2017-01-25T09:53:07.496537592Z
+    created: 2017-02-28T19:25:18.32862207Z
     description: A Helm chart for Kubernetes
     digest: 0d8f0f802c663b0f9c4d681fd3e8d172428ff07093314de720c8d554c8d9cdde
     name: galaxy-simple
@@ -54,7 +69,7 @@ entries:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-simple-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: 2017-01-25T09:53:07.496351074Z
+    created: 2017-02-28T19:25:18.328291439Z
     description: A Helm chart for Kubernetes
     digest: 8e5abf9ef060857c004a70ad546308aa651288db27b486ee4a00e4ee0e66b056
     name: galaxy-simple
@@ -62,7 +77,7 @@ entries:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-simple-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2017-01-25T09:53:07.496189401Z
+    created: 2017-02-28T19:25:18.327897759Z
     description: A Helm chart for Kubernetes
     digest: 398e5b24c57f4f57aa54d5a24c8936445301ae436d2168193bbb8cbd9288a937
     name: galaxy-simple
@@ -70,11 +85,11 @@ entries:
     - https://pcm32.github.io/galaxy-helm-charts/galaxy-simple-0.1.0.tgz
     version: 0.1.0
   postgres:
-  - created: 2017-01-25T09:53:07.497052375Z
+  - created: 2017-02-28T19:25:18.33240064Z
     description: A Helm chart for Kubernetes
     digest: b1f5cb5e8273f88fe9e6fe8f30c9692187ed6bc94470980d2742edab5b9d7720
     name: postgres
     urls:
     - https://pcm32.github.io/galaxy-helm-charts/postgres-0.1.0.tgz
     version: 0.1.0
-generated: 2017-01-25T09:53:07.490859658Z
+generated: 2017-02-28T19:25:18.322008256Z
